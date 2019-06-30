@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1557282659 source:/home/ziad/Documents/c++ projects/my-projects/single-linked-list/main.cpp
+	<iostream>
+	<cstdlib>
+

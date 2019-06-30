@@ -1,0 +1,14 @@
+t1->newNode(100);
+    t1->newNode(5);
+    t1->newNode(3);
+    t1->newNode(1);
+    t1->newNode(16);
+    t1->newNode(25);
+    t1->newNode(11);
+    t1->newNode(150);
+    t1->newNode(145);
+    t1->newNode(170);
+    t1->newNode(171);
+    t1->newNode(165);
+    t1->newNode(-120);
+    t1->preorder_print();
